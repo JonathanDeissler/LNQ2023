@@ -3,7 +3,7 @@
 Challenge info:
 
 The challenge deals with lymph node quantification (segmentation) but has a catch: Not all Lymph nodes are annotated within a patient.
-Out of e.g. 5 Lymphnodes (LN) only a single one is annotated. Additionally to that caveat they want you to only segment the lymph nodes that are 'pathological' i.e. larger than normal.
+Out of e.g. 5 Lymphnodes (LN) only a single one is annotated.
 
 to recreate the submitted model:
 -  Download data
