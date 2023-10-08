@@ -24,7 +24,8 @@ to recreate the submitted model:
 -  Train nnU-Net using the trainer: nnUNetTrainerDA5
 -  Inference can be run via the nnUNetv2_predict function
 
--  For containerisation see the code provided in Algorithm
+-  For containerisation see the code provided in Algorithm 
+-  your nnU-Net results folder needs to be copied into the results folder there (the model cant be provided here since the files are to big to be committed)
 
 Installation help for the used tools can be found here:
     https://github.com/MIC-DKFZ/nnUNet
